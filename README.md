@@ -1,2 +1,2 @@
 # math-quiz
-The App
+The App, that helps learning Math.
